@@ -1,0 +1,21 @@
+
+.productContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+/* 
+.con-cl{
+    width: 30%;
+} */
+h1{
+    text-align: center;
+}
+/* .con-img-d{
+    height: 200px;
+    width: 200px;
+} */
+.con-img{
+        width: 30% ;
+}
